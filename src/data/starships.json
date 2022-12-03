@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Real Madrid",
+    "model": "DS-1 Orbital Battle Station",
+    "manufacturer": "Imperial Department of Military Research, Sienar Fleet Systems",
+    "cost_in_credits": "1000000000000",
+    "length": "120000",
+    "max_atmosphering_speed": "n/a",
+    "crew": "Spain",
+    "passengers": "843,342",
+    "cargo_capacity": "1000000000000",
+    "consumables": "3 years",
+    "hyperdrive_rating": "4.0",
+    "MGLT": "10",
+    "starship_class": "Deep Space Mobile Battlestation",
+    "url": "https://i0.wp.com/wallpapercave.com/wp/wp4023840.jpg"
+  },
+  {
+    "name": "Barcelona",
+    "model": "YT-1300 light freighter",
+    "manufacturer": "Corellian Engineering Corporation",
+    "cost_in_credits": "100000",
+    "length": "34.37",
+    "max_atmosphering_speed": "1050",
+    "crew": "Spain",
+    "passengers": "6",
+    "cargo_capacity": "100000",
+    "consumables": "2 months",
+    "hyperdrive_rating": "0.5",
+    "MGLT": "75",
+    "starship_class": "Light freighter",
+    "url": "https://sun9-32.userapi.com/impg/qX2Pd3AgBgQrWyO0iZfh8yUxW44o1XgDDsVu4Q/RXDv_wUxRSw.jpg?size=604x604&quality=96&sign=a486403c1bf50213cad3359c58326f3c&type=album"
+  },
+  {
+    "name": "Manchester City",
+    "model": "Sentinel-class landing craft",
+    "manufacturer": "Sienar Fleet Systems, Cyngus Spaceworks",
+    "cost_in_credits": "240000",
+    "length": "38",
+    "max_atmosphering_speed": "1000",
+    "crew": "England",
+    "passengers": "75",
+    "cargo_capacity": "180000",
+    "consumables": "1 month",
+    "hyperdrive_rating": "1.0",
+    "MGLT": "70",
+    "starship_class": "landing craft",
+    "created": "2014-12-10T15:48:00.586000Z",
+    "edited": "2014-12-20T21:23:49.873000Z",
+    "url": "https://pbs.twimg.com/media/D-DQoNMUEAE_8Z-.jpg"
+  }
+]
